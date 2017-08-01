@@ -1,5 +1,5 @@
 /**
- * Created by Anurag on 23-04-2016.
+ * Created by Anuj Singh
  */
 window.addEventListener("DOMContentLoaded",function(){
     $("#mystyle").hide();
